@@ -15,5 +15,10 @@ class ViewController: UIViewController {
     }
 
 
+    @IBOutlet weak var backlabel: UILabel!
+    @IBOutlet weak var frontlabel: UILabel!
+    @IBAction func didTaponFlashcard(_ sender: Any) {
+        frontlabel.isHidden = true
+    }
 }
 
