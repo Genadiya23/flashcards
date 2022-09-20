@@ -21,7 +21,7 @@
 ## Lab 1\
 \
 ### App Description\
-in this app you can find the answer for the question just tapping on question. \
+In this app you can find the answer for the question just tapping on question. \
 \
 ### App Walk-though\
 \
