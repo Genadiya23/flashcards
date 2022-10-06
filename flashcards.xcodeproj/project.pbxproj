@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C73504A628EBF7ED004ADDA5 /* CreationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C73504A528EBF7ED004ADDA5 /* CreationViewController.swift */; };
 		C742576828D16F20000EC1CA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C742576728D16F20000EC1CA /* AppDelegate.swift */; };
 		C742576A28D16F20000EC1CA /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C742576928D16F20000EC1CA /* SceneDelegate.swift */; };
 		C742576C28D16F20000EC1CA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C742576B28D16F20000EC1CA /* ViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C73504A528EBF7ED004ADDA5 /* CreationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreationViewController.swift; sourceTree = "<group>"; };
 		C742576428D16F20000EC1CA /* flashcards.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = flashcards.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C742576728D16F20000EC1CA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C742576928D16F20000EC1CA /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 		C742575B28D16F20000EC1CA = {
 			isa = PBXGroup;
 			children = (
+				C73504A528EBF7ED004ADDA5 /* CreationViewController.swift */,
 				C742576628D16F20000EC1CA /* flashcards */,
 				C742577D28D16F22000EC1CA /* flashcardsTests */,
 				C742578728D16F22000EC1CA /* flashcardsUITests */,
@@ -261,6 +264,7 @@
 				C742576C28D16F20000EC1CA /* ViewController.swift in Sources */,
 				C742576828D16F20000EC1CA /* AppDelegate.swift in Sources */,
 				C742576A28D16F20000EC1CA /* SceneDelegate.swift in Sources */,
+				C73504A628EBF7ED004ADDA5 /* CreationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
